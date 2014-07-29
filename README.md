@@ -1,9 +1,8 @@
-""" CMakeList.txt """
+# CMakeList.txt
 > cd target
 > cmake ../src
 > make
 > ls build/bin
 
-
-" Reference "
+### Reference
 > http://theory.cpe.ku.ac.th/wiki/index.php/CMake/Basics
